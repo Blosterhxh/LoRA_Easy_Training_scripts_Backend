@@ -1,7 +1,3 @@
-[submodule "sd_scripts"]
-	path = sd_scripts
-	url = https://github.com/Blosterhxh/sd_scripts
-        branch = anciencommit
 [submodule "LyCORIS"]
 	path = lycoris
 	url = https://github.com/67372a/LyCORIS
